@@ -4,6 +4,9 @@ public class Person {
         System.out.println("some text");
         System.out.println("some text2");
         System.out.println("some tex2t");
+        System.out.println("some tex2t1");
+        System.out.println("some tex22t");
+        System.out.println("some tex252t");
         System.out.println("some tex2t");
         System.out.println("some tex2t");
         System.out.println("some text");
