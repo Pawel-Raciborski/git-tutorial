@@ -4,5 +4,11 @@ public class Person {
         System.out.println("some text");
         System.out.println("some text");
         System.out.println("some text");
+        System.out.println("some text");
+        System.out.println("some text");
+        System.out.println("some text");
+        System.out.println("some text");
+        System.out.println("some text");
+        System.out.println("some text");
     }
 }
